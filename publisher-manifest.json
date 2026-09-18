@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "66d22d5edd2ade83b053d029",
+  "owner": "yfnywxgph",
+  "repo": "yfnywxgph.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "060aa6bd4f35d6df51845880",
+      "a": "BosLife",
+      "b": "网络加速服务",
+      "entity": "BosLife",
+      "brand": "BosLife",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "65a91b3a9f7b413e2062167b8df19ad3de00fbb49bc74aee0151f2415aff577d",
+      "content": {
+        "primary_entity": "BosLife",
+        "keyword1": "BosLife",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "在常用设备上安装对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择合适的加速方案",
+          "AI_DESCRIPTION": "，BosLife 提供基础版、旗舰版与团队版三档套餐，分别适配个人轻量使用、多设备日常加速和小团队协作场景。基础版满足日常浏览与基础流媒体，旗舰版增加专线游戏优化与更多在线设备，团队版面向企业定制路由与高带宽节点需求。选择时先看设备数量和月流量，再按订阅周期决定月付或年付。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备匹配和订阅周期三个角度快速了解 BosLife。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "在线设备数各档不同，先确认常用设备总量，再对照套餐的并发上限。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，长期使用优先考虑年付方案，短期需求可按月订阅。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数",
+          "AI_FEATURE_TITLE_3": "订阅周期取舍",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三个步骤操作即可。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "BosLife 提供多档海外网络加速套餐，覆盖个人到团队的不同设备规模与流量需求。选好套餐后，按设备安装对应客户端并导入订阅，即可用于日常浏览、流媒体与游戏等场景。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "设备数量与流量灵活匹配",
+          "AI_HIGHLIGHT_3": "月付年付按需选择",
+          "AI_PLANS_INTRO": "对照月流量、设备数量与专线权益，选出适合自己或团队的套餐档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据自己的设备数量和月流量需求，在基础版、旗舰版与团队版之间选定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备并发数、流量额度与节点类型，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在设备上安装对应客户端，按客户端文档导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "BosLife 加速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版适合个人日常浏览和轻度流媒体，旗舰版支持更多设备与 IPLC 专线游戏加速，团队版提供高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版支持较少设备同时在线，旗舰版覆盖主流多设备场景，团队版面向团队协作设备规模，按实际终端数量选择对应档位即可。",
+          "AI_FAQ_ANSWER_3": "按年付通常比月付更划算，适合长期稳定的使用需求；短期或设备数量变动频繁的用户可先按月订阅，再根据使用情况调整周期。",
+          "AI_FAQ_ANSWER_4": "不需要复杂操作，在客户端内粘贴订阅链接后同步节点，再根据客户端文档选择代理模式即可开始使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与优先工单支持，团队版提供 VIP 专属高带宽节点和专属客户经理服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "订阅链接在客户端中如何导入？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有哪些额外权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1b1edfb49c61d26a97cf05d576e461dbba4b4033dcf77945e5a10462d1beee16",
+    "sitemap.xml": "2dfff6280d4cc92734d741d53f062908cf66c4279a64bcc2dd95e012d3c0c470",
+    "robots.txt": "1186c0c032f0dec211dd55d51a7069e887591ef414540c166e1a65491742c13b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "6f108cbc24e3a22df0fa5b41686a877566f1944d4a59be9574f7ee6f440c5faf"
+}

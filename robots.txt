@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yfnywxgph.github.io/sitemap.xml
